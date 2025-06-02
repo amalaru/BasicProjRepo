@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BasicProj" verbose="1">
+    <test name="Package">
+        <classes>
+            <class name="BasicApitest"/>
+        </classes>
+    </test>
+</suite>
